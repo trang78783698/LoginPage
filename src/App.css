@@ -1,0 +1,32 @@
+.App {
+  background-color: white;
+}
+
+.Sign-form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.Sign-form {
+  width: 420px;
+  box-shadow: rgba(0, 0, 0, 0.2) 1px 1px 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.Sign-form-content {
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
+.Sign-form-title {
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: #030a1d;
+  font-weight: 700;
+}
